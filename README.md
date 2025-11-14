@@ -35,6 +35,6 @@ git clone git@github.com:aliou90/cinema.git
 
 3. Accéder à http://localhost/cinema.local/ via navigateur
 
-*Auteur*
+**Auteur**
 
 Aliou Mbengue - alioumbengue2828@gmail.com
