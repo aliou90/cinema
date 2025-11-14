@@ -11,6 +11,9 @@ Le projet permet de gérer les entités suivantes :
 - **PROJECTION** : Gestion des projections des films
 - **INTERROGATIONS** : Permet d’exécuter certaines requêtes prédéfinies pour afficher des informations (via une sidebar) sans que l’utilisateur voie directement la requête SQL.
 
+## Capture d'écran
+![Interface du projet](assets/screenshots/screenshot.png)
+
 ## Fonctionnalités principales
 
 - Menu principal pour naviguer entre les entités
