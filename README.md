@@ -29,10 +29,12 @@ index.php # Page principale
 1. Cloner le projet :  
 ```bash
 git clone git@github.com:aliou90/cinema.git
+```
+
 2. Placer le projet dans un serveur local (XAMPP, WAMP, ou PHP Built-in Server)
 
 3. Accéder à http://localhost/cinema.local/ via navigateur
 
-Auteur
+*Auteur*
 
 Aliou Mbengue - alioumbengue2828@gmail.com
